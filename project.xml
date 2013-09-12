@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
-	
-	<meta title="HaxeLightsOut" package="com.example.haxelightsout" version="1.0.0" company="Company Name" />
-	<app main="Main" path="Export" file="HaxeLightsOut" />
-	
-	<source path="Source" />
-	
-	<haxelib name="openfl" />
-	
-	<assets path="Assets" rename="assets" exclude="openfl.svg" />
-	<icon path="Assets/openfl.svg" />
-	
+  
+  <meta title="LightsOut" package="com.kennygoff.lightsout" version="1.0.0" company="kennygoff and jdan" />
+  <app main="com.kennygoff.LightsOut" path="Export" file="LightsOut" />
+  
+  <source path="Source" />
+  
+  <haxelib name="openfl" />
+  
+  <assets path="Assets" rename="assets" exclude="openfl.svg" />
+  <icon path="Assets/openfl.svg" />
+  
 </project>
